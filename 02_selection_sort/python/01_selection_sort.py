@@ -1,4 +1,5 @@
 # Finds the smallest value in an array
+#找到最小值
 def findSmallest(arr):
   # Stores the smallest value
   smallest = arr[0]
